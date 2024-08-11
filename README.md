@@ -12,5 +12,8 @@ In this game, there were some challenges that we faced and wished to got it impr
 Collaborator/Team members: Chhay Vannlalune, Seng Channika, Sok Sreylaksmy, San Sokunneath. 
 Pygame Library: We use pygame mainly to complete this project. Along the way, we had faced some difficulties with debugging. So, we use some AI tools to hep us such as ChatGPT, Poe, Gemini,etc. We also use some opensource to help us. We are very thankful to all the resource and would like to give all credits to the rightful owners.
 https://www.youtube.com/watch?v=KOBKkPWGP-g&list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz
+https://github.com/maxontech/chrome-dinosaur/tree/master/Assets
+
+
 
 
