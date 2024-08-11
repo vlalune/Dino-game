@@ -4,8 +4,8 @@ This dino game use python in vscode as a programming language. Briefly, Dino gam
 Users need to press spacebar in order for dino to jump pass obstacles such as cactus. If the dino jump pass the cactus, the score will be addede. If the dino run pass or hit obstacles, it will die. The game will end and the score will display on the main screen. Once the game is finished, users can either choose to continue the game or quit it. 
 # How to run
 We use vscode and install pygame to run this project.
-# Challenges and improvement
-We had a lot of challenges doing this project. We had learn how to install pygame, doing research, and understand what library we should use. To run this project, we learned how to implement the code troughout the process. After completing this project, we have noticed some improvement within our skills of coding and fixing bugs. Since we did this as a team, we had learned from each other a lot.
+# Challenges and Improvement
+We had a lot of challenges doing this project. We had learned how to install pygame, doing research, and understand what library we should use. To run this project, we learned how to implement the code troughout the process. After completing this project, we have noticed some improvement within our skills of coding and fixing bugs. Since we did this as a team, we had learned from each other a lot.
 
 In this game, there were some challenges that we faced and wished to got it improved in the future. The game is not running smoothly, yet. For example, sometimes cactus is still far from the dino on the track but the dino will die by not jumping over it even tough the obstacles are not coming near the dino yet. It's our first project and we are still in beginner phase. Therefore, we will ocntinue to improve our game functionality , making it more smoothly.
 # Credit
